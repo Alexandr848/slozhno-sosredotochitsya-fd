@@ -6,7 +6,7 @@
 */
 
 :root.theme-dark {
-  --bg-image-dark: url(../images/cover-image-dark.png);
+  --bg-image: url(../images/cover-image-dark.png);
   --accent-color: #FF0070;
   --text-color: #000028;
   --text-accent-color: #FF0070;
