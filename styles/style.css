@@ -158,7 +158,6 @@ body::before {
   }
 
   .section-flex {
-    margin-top: var(--section-mar-tablet);
     display: grid;
     margin-top: 40px;
   }
