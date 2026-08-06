@@ -13,7 +13,7 @@
   --button-color: #FF007066;
   --title-color: #DB00FF;
   --link-color: #FF0070;
-  --position-decor: absolute;
+  --position-decor: block;
   --text-size: 18px;
   --section-mar-tablet: 60px;
 }
