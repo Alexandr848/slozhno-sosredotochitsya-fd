@@ -8,10 +8,6 @@
   /* сохраните в разметке и стилях класс page у тега body. Он удобен, чтобы составлять селекторы для разных цветовых тем. */
 }
 
-.decorated-zone {
-  position: relative;
-}
-
 .header__theme-menu-list {
   display: grid;
   justify-content: end;
@@ -63,14 +59,6 @@
   justify-content: center;
   margin-left: 10px;
   margin-right: 10px;
-}
-
-.header__theme-menu {
-  position: relative;
-}
-
-.header-rec {
-  position: relative;
 }
 
 .header-rec::before {
